@@ -18,7 +18,7 @@ Modulen cryptofeed verkar vara ett bra alternativ.
 
 URL för docs: https://github.com/bmoscon/cryptofeed/blob/master/docs/README.md
 
-Skrivet av: Martin Svärdsjö 2021
+Skrivet av: Martin Svärdsjö, David Svensson. 2021
 ฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿฿
 
 CCXT = CryptoCurrency eXchange Trading.
